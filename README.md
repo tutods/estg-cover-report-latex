@@ -33,7 +33,7 @@
 
 <br />
 
-<h2 style="font-weight: 300;">Editor que uso:</h2>
+<h2 style="font-weight: 300;">Editor:</h2>
 
 Para **LaTex** uso sempre ou o **Visual Studio Code** ou o **TexPad**, porém deixo as configurações utilizadas no **Visual Studio Code**:
 

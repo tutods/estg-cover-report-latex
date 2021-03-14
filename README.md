@@ -1,4 +1,4 @@
-<h1 align="center">Template de Relatório em LaTex</h1>
+<h1 align="center">Template de Relatório em LaTeX</h1>
 <h2 style="font-weight: 300; margin-top: 0" align="center">Para relatório de estágio da ESTG P.Porto</h2>
 
 <div align="center">

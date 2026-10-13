@@ -14,7 +14,7 @@
 
 <h2 style="font-weight: 300;">Resultado</h2>
 
-<a href="#"><img src="https://i.ibb.co/fpYTqhx/image.png" alt="image" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/fdMDXBgx/main-1.jpg" alt="image" border="0"></a>
 
 <br />
 

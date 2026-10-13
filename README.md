@@ -1,5 +1,5 @@
 <h1 align="center">Template de Relatório em LaTeX</h1>
-<h2 style="font-weight: 300; margin-top: 0" align="center">Para relatório de estágio da ESTG P.Porto</h2>
+<h2 style="font-weight: 300; margin-top: 0" align="center">Para relatório de estágio da ESTG - Universidade Técnica do Porto</h2>
 
 <div align="center">
 <a href="#">
@@ -14,7 +14,7 @@
 
 <h2 style="font-weight: 300;">Resultado</h2>
 
-<a href="#"><img src="https://i.ibb.co/fpYTqhx/image.png" alt="image" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/fdMDXBgx/main-1.jpg" alt="image" border="0"></a>
 
 <br />
 
